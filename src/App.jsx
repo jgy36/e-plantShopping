@@ -18,7 +18,7 @@ function App() {
           <div className="landing_content">
             <h1>Welcome To Paradise Nursery</h1>
             <div className="divider"></div>
-            <p>Where Greeeeeeeen Meets Serenity</p>
+            <p>Where Green Meets Serenity</p>
 
             <button
               className="get-started-button"
